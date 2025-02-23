@@ -1,4 +1,4 @@
-- # Bonjour, je suis @Paskod121 👋
+- # Bonjour, je suis Pascal SEWONOU 👋
  *À propos de moi*
 - 🎓 Étudiant en école d'ingénierie informatique, passionné par les technologies innovantes et le développement logiciel.
 - 🤖 Intéressé par l'intelligence artificielle, l'apprentissage automatique et leurs applications dans divers domaines.
@@ -6,7 +6,7 @@
 - 🐍 Amoureux de Python, que j'utilise pour des projets personnels, des scripts automatisés et des expériences en IA.
 - 🏋️‍♂️ Adepte de sport, je crois en l'équilibre entre un esprit sain et un corps sain.
 - 
-  *Compétences et Apprentissages
+  *Compétences et Apprentissages*
 - *Langages de programmation* : Python, C, Java, JavaScript
 - *Technologies* : Machine Learning, Data Science, Développement Web
 - *Outils* : Git, Docker, TensorFlow, PyTorch
