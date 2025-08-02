@@ -19,8 +19,7 @@
 ## Contact
 
 - 📧 Email : pascalsewonou2@gmail.com 
-- 💼 LinkedIn : 
-- 🐦 Twitter : 
+- 💼 LinkedIn : www.linkedin.com/in/pascal-paskod
 - ▶️ YouTube : https://youtube.com/@paskod6774?si=5Xndq87LpfOvL5RN
 
 ## Pronoms
