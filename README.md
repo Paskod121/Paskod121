@@ -1,36 +1,39 @@
-- # Bonjour, je suis Pascal SEWONOU 👋
- *À propos de moi*
-- 🎓 Étudiant en école d'ingénierie informatique, passionné par les technologies innovantes et le développement logiciel.
-- 🤖 Intéressé par l'intelligence artificielle, l'apprentissage automatique et leurs applications dans divers domaines.
-- 🎮 Passionné de jeux vidéo, avec un intérêt particulier pour le développement de jeux et les technologies graphiques.
-- 🐍 Amoureux de Python, que j'utilise pour des projets personnels, des scripts automatisés et des expériences en IA.
-- 🏋️‍♂️ Adepte de sport, je crois en l'équilibre entre un esprit sain et un corps sain.
-- 
-  *Compétences et Apprentissages*
-- *Langages de programmation* : Python, C, Java, JavaScript
-- *Technologies* : Machine Learning, Data Science, Développement Web
-- *Outils* : Git, Docker, TensorFlow, PyTorch
-- *En cours d'apprentissage* : Génie logiciel, Conception de systèmes distribués
+# Pascal SEWONOU
+**Ingénieur Logiciel | Mentor & Leader Tech**
 
- Collaboration
-- 🤝 Je suis ouvert à la collaboration sur des projets innovants, en particulier ceux liés à l'IA, aux jeux vidéo ou au développement logiciel.
-- 💡 Si vous avez une idée de projet ou si vous cherchez un partenaire de codage, n'hésitez pas à me contacter !
+---
 
-## Contact
+## Leadership & Expertise
 
-- 📧 Email : pascalsewonou2@gmail.com 
-- 💼 LinkedIn : www.linkedin.com/in/pascal-paskod
-- ▶️ YouTube : https://youtube.com/@paskod6774?si=5Xndq87LpfOvL5RN
+**Spécialisations :** Intelligence Artificielle • Développement Logiciel • Architecture Systèmes  
+**Focus :** Solutions innovantes, équipes performantes, excellence technique
 
-## Pronoms
+## Stack Technique
 
-- Il/Lui
+**Languages :** Python • C • Java • JavaScript  
+**AI/ML :** TensorFlow • PyTorch • Machine Learning • Data Science  
+**DevOps :** Docker • Git • Systèmes Distribués  
+**Web :** Développement Full-Stack moderne
 
-## Fait amusant
+## Vision
 
-- 🎮 J'ai développé un petit jeu en Python pendant mon temps libre, mélangeant mes passions pour le codage et les jeux vidéo.
+> "Transformer les idées complexes en solutions élégantes. Développer les talents autant que les technologies."
 
-<!---
-Paskod121/Paskod121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Actuellement en formation d'ingénieur informatique, je construis des solutions qui comptent et forme la prochaine génération de développeurs.
+
+## Projets Notables
+
+- **Jeu Python** - Fusion créativité/algorithmes
+- **Solutions IA** - Applications pratiques ML
+- **Mentoring** - Formation équipes techniques
+
+## Collaboration
+
+Recherche partenaires pour projets ambitieux en IA et développement logiciel.  
+Intéressé par les défis techniques complexes et le leadership d'équipe.
+
+---
+
+**Contact :** pascalsewonou2@gmail.com  
+**LinkedIn :** [pascal-paskod](https://linkedin.com/in/pascal-paskod)  
+**YouTube :** [@paskod6774](https://youtube.com/@paskod6774)
