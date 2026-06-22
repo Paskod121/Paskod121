@@ -1,39 +1,48 @@
-# Pascal SEWONOU
-**Ingénieur Logiciel | Mentor & Leader Tech**
 
----
+  # Pascal SEWONOU
 
-## Leadership & Expertise
+  Développeur logiciel — je conçois et j'expédie des produits qui tiennent dans la vraie vie 
+  : connexions instables, téléphones modestes, vrais utilisateurs.
 
-**Spécialisations :** Intelligence Artificielle • Développement Logiciel • Architecture Systèmes  
-**Focus :** Solutions innovantes, équipes performantes, excellence technique
+  Togo · Ingénieur informatique en formation
 
-## Stack Technique
+  ---
 
-**Languages :** Python • C • Java • JavaScript  
-**AI/ML :** TensorFlow • PyTorch • Machine Learning • Data Science  
-**DevOps :** Docker • Git • Systèmes Distribués  
-**Web :** Développement Full-Stack moderne
+  ## Ce que je construis
 
-## Vision
+  **[UpTe](https://upte.app)** — mon projet principal, développé en solo : une application   
+  d'étude pour étudiants.
 
-> "Transformer les idées complexes en solutions élégantes. Développer les talents autant que les technologies."
+  - Planning de révisions + Pomodoro, et fiches à **répétition espacée** (retenir, pas       
+  bachoter)
+  - **Salles de travail en temps réel** : visio, chat, lecture de PDF partagée
+  - **Apte**, un assistant vocal intégré
+  - PWA **offline-first**, pensée pour l'Afrique (réseau lent, appareils d'entrée de gamme)  
 
-Actuellement en formation d'ingénieur informatique, je construis des solutions qui comptent et forme la prochaine génération de développeurs.
+  Stack du projet : JavaScript (ES modules, sans framework ni bundler), Supabase (Postgres / 
+  Auth / Realtime / Edge Functions), WebRTC (LiveKit), Capacitor (Android), intégration IA   
+  (LLM + reconnaissance et synthèse vocale).
 
-## Projets Notables
+  ## Stack technique
 
-- **Jeu Python** - Fusion créativité/algorithmes
-- **Solutions IA** - Applications pratiques ML
-- **Mentoring** - Formation équipes techniques
+  **Langages :** JavaScript • Python • Java • C
+  **Web & temps réel :** PWA, Service Workers, WebRTC, offline-first
+  **Backend & data :** Supabase / PostgreSQL, fonctions serverless
+  **IA appliquée :** intégration de LLM (Groq, Gemini, Azure OpenAI), speech-to-text /       
+  text-to-speech
+  **Outils :** Git, Docker
 
-## Collaboration
+  ## À propos
 
-Recherche partenaires pour projets ambitieux en IA et développement logiciel.  
-Intéressé par les défis techniques complexes et le leadership d'équipe.
+  J'aime résoudre des problèmes concrets et **livrer**, pas seulement prototyper. Je
+  m'intéresse de près à l'IA appliquée et aux produits utiles en contexte africain. Toujours 
+  partant pour un projet ambitieux ou un bon échange technique.
 
----
+  ---
 
-**Contact :** pascalsewonou2@gmail.com  
-**LinkedIn :** [pascal-paskod](https://linkedin.com/in/pascal-paskod)  
-**YouTube :** [@paskod6774](https://youtube.com/@paskod6774)
+  **Contact :** pascalsewonou2@gmail.com
+  **LinkedIn :** [pascal-paskod](https://linkedin.com/in/pascal-paskod)
+  **YouTube :** [@paskod6774](https://youtube.com/@paskod6774)
+
+  [![committers.top badge](https://user-badge.committers.top/togo/Paskod121.svg)](https://use
+  r-badge.committers.top/togo/Paskod121)
