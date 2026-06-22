@@ -1,7 +1,7 @@
 
   # Pascal SEWONOU
 
-  Développeur logiciel — je conçois et j'expédie des produits qui tiennent dans la vraie vie 
+  Développeur logiciel, je conçois et j'expédie des produits qui tiennent dans la vraie vie 
   : connexions instables, téléphones modestes, vrais utilisateurs.
 
   Togo · Ingénieur informatique en formation
@@ -10,7 +10,7 @@
 
   ## Ce que je construis
 
-  **[UpTe](https://upte.app)** — mon projet principal, développé en solo : une application   
+  **[UpTe](https://upte.app)**, mon projet principal, développé en solo : une application   
   d'étude pour étudiants.
 
   - Planning de révisions + Pomodoro, et fiches à **répétition espacée** (retenir, pas       
