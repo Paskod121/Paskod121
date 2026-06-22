@@ -42,6 +42,5 @@
 
   **Contact :** pascalsewonou2@gmail.com
   **LinkedIn :** [pascal-paskod](https://linkedin.com/in/pascal-paskod)
-  **YouTube :** [@paskod6774](https://youtube.com/@paskod6774)
 
   [![committers.top badge](https://user-badge.committers.top/togo/Paskod121.svg)](https://user-badge.committers.top/togo/Paskod121)
